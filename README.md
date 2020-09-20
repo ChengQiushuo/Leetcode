@@ -4,4 +4,4 @@
 ## [hashing](https://github.com/ChengQiushuo/Leetcode/tree/master/src/hash%E7%9B%B8%E5%85%B3)
 * q1 两数之和
 * q387 字符串中的第一个唯一字符
-## 哈哈哈
+## 链表操作
